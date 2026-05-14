@@ -1,4 +1,4 @@
-<img width="2702" height="1478" alt="Screenshot 2026-05-14 161036" src="https://github.com/user-attachments/assets/5cc24702-ccd5-4e14-8deb-e77f434dde17" />AI Database Assistant 
+AI Database Assistant 
 Overview
 
 This project is an AI-powered SQL Database Assistant built using Python, Streamlit, SQLite, and Google Gemini API.
